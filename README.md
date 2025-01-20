@@ -1,11 +1,11 @@
 # Hey there! 👋
 
-I'm [Christopher Obando], a 3rd-year Software Engineering B.S. student at the Rochester Institute of Technology, passionate about leveraging technology to make the impossible possible Here's a bit about me:
+I'm Christopher Obando, a 3rd-year Software Engineering B.S. student at the Rochester Institute of Technology, passionate about leveraging technology to make the impossible possible Here's a bit about me:
 
 ---
 
 ## 🚀 About Me:
-- 🌍 **Location**: [Long Island, NY]
+- 🌍 **Location**: Long Island, NY
 - 💻 **Current Focus**: Building innovative projects in [e.g., Full-Stack Development, AI, or Mobile Development].
 - 🎯 **Goals**: Learn more, Build more, and Understand More
 
@@ -31,7 +31,7 @@ I'm [Christopher Obando], a 3rd-year Software Engineering B.S. student at the Ro
 
 ## 📫 How to Reach Me:
 - **Email**: [co1553@rit.edu]
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/christopherobando/))
+- **LinkedIn**: [https://www.linkedin.com/in/christopherobando/]
 
 ---
 
