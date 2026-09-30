@@ -13,7 +13,7 @@ I'm Christopher Obando, a 3rd-year Software Engineering B.S. student at the Roch
 
 ---
 
-## 🛠️ A few of many Technologies & Tools I've worked with:
+## 🛠️ A Few of Many Technologies & Tools I've worked with:
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
