@@ -2,7 +2,7 @@
 
 I'm Christopher Obando, a 3rd-year Software Engineering B.S. student at the Rochester Institute of Technology, passionate about leveraging technology to make the impossible possible Here's a bit about me:
 
-> 📌 **A note on my work:** Most of my projects live in private repositories because they're tied to coursework, company work, or are still in progress, so this profile isn't a complete picture of what I've built. Below are a few public samples, and I'm happy to walk through any private work in an interview or over a screen share.
+> 📌 **A note on my work:** Most of my projects live in private repositories because they're tied to coursework, previous company work, or are still in progress, so this profile isn't a complete picture of what I've built. Below are a few public samples of things I've mostly or somewhat finished, and I'm happy to walk through any private work in an interview or over a screen share.
 
 ---
 
