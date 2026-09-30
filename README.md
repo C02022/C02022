@@ -2,16 +2,18 @@
 
 I'm Christopher Obando, a 3rd-year Software Engineering B.S. student at the Rochester Institute of Technology, passionate about leveraging technology to make the impossible possible Here's a bit about me:
 
+> 📌 **A note on my work:** Most of my projects live in private repositories because they're tied to coursework, company work, or are still in progress, so this profile isn't a complete picture of what I've built. Below are a few public samples, and I'm happy to walk through any private work in an interview or over a screen share.
+
 ---
 
 ## 🚀 About Me:
-- 🌍 **Location**: Long Island, NY
-- 💻 **Current Focus**: Building innovative projects in [e.g., Full-Stack Development, AI, or Mobile Development].
+- 🌍 **Location**: Rochester, NY or Long Island, NY
+- 💻 **Current Focus**: Building innovative projects in Full-Stack Development and learning more about AI.
 - 🎯 **Goals**: Learn more, Build more, and Understand More
 
 ---
 
-## 🛠️ Technologies & Tools:
+## 🛠️ A few of many Technologies & Tools I've worked with:
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
